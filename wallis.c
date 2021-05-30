@@ -4,7 +4,7 @@
 #include <math.h>
 
 
-float wallis_pi(int m);
+float wallis_pi(int);
 
 
 int main(void) {
